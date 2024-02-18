@@ -10,6 +10,10 @@ This repository contains the code for a Todo web application developed using Rea
 - **Status Management:** Users can mark tasks as completed or not completed.
 - **Responsive Design:** The application is designed to adapt to different screen sizes and devices.
 
+## Demo
+
+You can try the live demo [here](https://react-todo-web-app-demo.netlify.app/).
+
 ## Technologies Used
 
 - **React.js:** The frontend of the application is built using React.js, providing a dynamic and interactive user interface.
